@@ -10,11 +10,9 @@
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=fastflags&show_icons=true&theme=dark)
 
 ## Repositories
-### UFFL
-⭐[Ultimate Fast Flag List](https://github.com/fastflags/UFFL)
-⭐[Ultimate Fast Flag List](https://rentry.org/uffl)
+### Nothing
 
 ## Currently working on
-* Nothing
+### ⭐[Ultimate Fast Flag List](https://rentry.org/uffl)
 
 # Account Creation: 2022-05-28
