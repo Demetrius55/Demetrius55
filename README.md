@@ -1,18 +1,20 @@
 ![](https://komarev.com/ghpvc/?username=fastflags&color=ff69b4)
 ## About Me
-- 👋 Hi, I’m [@neqq](https://github.com/devstacking)
+- 👋 Hi, I’m [@devstacking](https://github.com/devstacking)
 - 👀 I’m interested in love.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on myself
 ## Contacts:
-- ### Discord: @n_q.q
+- ### Telegram: @
 ## Stats
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=devstacking&show_icons=true&theme=dark)
 
 ## Repositories
-### Nothing
+### ⭐[Epic Fast Flag List](https://github.com/devstacking/Epic-Fast-Flags-List)
+### [RCO<sup>OL</sup>](https://github.com/devstacking/RCOOL)
 
 ## Currently working on
 ### ⭐[Epic Fast Flag List](https://github.com/devstacking/Epic-Fast-Flags-List)
+### [RCO<sup>OL</sup>](https://github.com/devstacking/RCOOL)
 
 # Account Creation: 2022-05-28
