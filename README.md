@@ -2,7 +2,7 @@
 ## About Me
 - 👋 Hi, I’m [@devstacking](https://github.com/devstacking)
 - 👀 I’m interested in love.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning rust.
 - 💞️ I’m looking to collaborate on myself
 ## Contacts:
 - ### Telegram: @
@@ -12,6 +12,8 @@
 ## Repositories
 ### ⭐[Epic Fast Flag List](https://github.com/devstacking/Epic-Fast-Flags-List)
 ### [RCO<sup>OL</sup>](https://github.com/devstacking/RCOOL)
+### [Fake Roblox Player Internal](https://github.com/devstacking/Roblox-Player-Internal-Patcher)
+
 
 ## Currently working on
 ### ⭐[Epic Fast Flag List](https://github.com/devstacking/Epic-Fast-Flags-List)
