@@ -1,9 +1,4 @@
-![](https://komarev.com/ghpvc/?username=fastflags&color=ff69b4)
-## About Me
-- 👋 Hi, I’m [@devstacking](https://github.com/devstacking)
-- 👀 I’m interested in love.
-- 🌱 I’m currently learning rust.
-- 💞️ I’m looking to collaborate on myself
+###### 800 rsg ##rr ##sw
 ## Contacts:
 - ### Telegram: @
 ## Stats
@@ -13,10 +8,11 @@
 ### ⭐[Epic Fast Flag List](https://github.com/devstacking/Epic-Fast-Flags-List)
 ### [RCO<sup>OL</sup>](https://github.com/devstacking/RCOOL)
 ### [Fake Roblox Player Internal](https://github.com/devstacking/Roblox-Player-Internal-Patcher)
-
+### [Herfdiug](https://devstacking.github.io/herfdiug/)
+### [‎ ](https://github.com/devstacking/Roblox.Glitching.Community.FFlags.Collective)
 
 ## Currently working on
 ### ⭐[Epic Fast Flag List](https://github.com/devstacking/Epic-Fast-Flags-List)
 ### [RCO<sup>OL</sup>](https://github.com/devstacking/RCOOL)
 
-# Account Creation: 2022-05-28
+# ![](https://komarev.com/ghpvc/?username=fastflags&color=ff69b4) Account Creation: 2022-05-28 ![](https://komarev.com/ghpvc/?username=fastflags&color=ff69b4)
